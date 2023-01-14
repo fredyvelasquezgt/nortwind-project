@@ -23,8 +23,6 @@ SET default_with_oids = false;
 DROP TABLE IF EXISTS customer_customer_demo;
 DROP TABLE IF EXISTS customer_demographics;
 DROP TABLE IF EXISTS employee_territories;
-DROP TABLE IF EXISTS order_details;
-DROP TABLE IF EXISTS orders;
 DROP TABLE IF EXISTS customers;
 DROP TABLE IF EXISTS products;
 DROP TABLE IF EXISTS shippers;
